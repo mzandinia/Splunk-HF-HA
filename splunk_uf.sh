@@ -66,7 +66,7 @@ disabled = false
 index = main
 
 [script://./bin/lsof.sh]
-interval = 1
+interval = 30
 disabled = false
 index = main
 
